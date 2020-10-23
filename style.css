@@ -1,11 +1,11 @@
-.right-menu{
-    float: right;
-}
-
 #footer{
     padding: 15px;
     text-align: center;
     background: #252525;
     color: #ffffff;
     font-weight: 500;
+}
+
+#card{
+    margin: 0 0 40px 0;
 }
