@@ -6,6 +6,8 @@ Web page displaying freedom fighters of India
 - Subhas Chandra Bose
 - Bhagat Singh
 - Vallabhbhai Patel
+- Chandrashekhar Azad
+- Lal Bahadur Shastri
 
 ## Contribution guide
 Add the freedom fighter in the given format of card
