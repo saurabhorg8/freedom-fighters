@@ -3,6 +3,7 @@ Web page displaying freedom fighters of India
 
 ## The freedom fighters added in the project:
 - Mahatma Gandhi
+- Subhas Chandra Bose
 
 ## Contribution guide
 Add the freedom fighter in the given format of card
