@@ -8,6 +8,7 @@ Web page displaying freedom fighters of India
 - Vallabhbhai Patel
 - Chandrashekhar Azad
 - Lal Bahadur Shastri
+- Lala Lajpat Rai
 
 ## Contribution guide
 Add the freedom fighter in the given format of card
