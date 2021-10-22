@@ -9,6 +9,8 @@ Web page displaying freedom fighters of India
 - Chandrashekhar Azad
 - Lal Bahadur Shastri
 - Lala Lajpat Rai
+- Bal Gangadhar Tilak
+- Ashfaqulla Khan
 
 ## Contribution guide
 Add the freedom fighter in the given format of card
