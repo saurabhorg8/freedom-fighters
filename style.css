@@ -13,5 +13,13 @@
 .eachCard:hover{
     box-shadow:5px 5px 5px 5px #25252554;
     transform: translate(0, -2px);
+}
 
+
+img{
+    width: 100%;
+}
+
+#content{
+    min-height: calc(100vh - 155px);
 }
