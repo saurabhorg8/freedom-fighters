@@ -23,3 +23,7 @@ img{
 #content{
     min-height: calc(100vh - 155px);
 }
+
+#navbarimg{
+    max-width: 75px;
+}
