@@ -12,6 +12,8 @@ Web page displaying freedom fighters of India
 - Bal Gangadhar Tilak
 - Ashfaqulla Khan
 - Mangal Pandey
+- Lakshmibai
+- Birsa Munda
 
 ## Contribution guide
 Add the freedom fighter in the given format of card
