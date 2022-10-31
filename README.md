@@ -11,6 +11,7 @@ Web page displaying freedom fighters of India
 - Lala Lajpat Rai
 - Bal Gangadhar Tilak
 - Ashfaqulla Khan
+- Mangal Pandey
 
 ## Contribution guide
 Add the freedom fighter in the given format of card
